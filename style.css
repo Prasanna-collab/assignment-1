@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Island+Moments&family=Raleway:ital,wght@0,100;1,200&family=Rubik+Bubbles&display=swap');
+
+.sale-image{
+	background: url(https://thumbs.dreamstime.com/b/new-year-s-sale-clothing-store-discounts-new-year-s-sale-clothing-store-discounts-103607006.jpg), hsl(277, 64%, 61%);
+	background-blend-mode: luminosity;
+	min-height: 18rem;
+	width: 100%;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	border-radius: 5px;
+    
+}
+
+.items{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    height:100vh;
+    
+}
+.statistics{
+    display: flex;
+    justify-content: space-between;
+    gap: 2rem;
+    
+}
+.one div{
+	font-family: 'Raleway', sans-serif;
+	color: hsl(277, 64%, 61%);
+	font-size: 2rem;
+}
+.one p {
+	font-family: 'Raleway', sans-serif;
+	color: hsl(277, 64%, 61%);
+	font-size: 0.5rem;
+}
+
+.heading{
+	text-align:left;
+	font-family: 'Raleway';
+	font-size: 2rem;
+}
+.para{ 
+text-align:left;
+	font-family: 'Island Moments';
+    font-size:1.5rem;
+}
+.first{
+    border-radius: 5px;
+    min-height: 18rem;
+    width: 100%;
+    padding-left: 0.5rem;
+    background-color: rgb(250, 250, 250);
+    line-height: 2rem;
+}
+.second{
+    min-height: 18rem;
+    width: 100%;
+    background-color: rgb(250, 250, 250);
+}
+
+
+@media (max-width: 780px){
+    .items{
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: center;
+        justify-content: center;
+        min-width:100%;
+        
+    }
+    .first{
+        text-align: center;
+        min-height: auto;
+        border-radius: 5px;
+        
+    }
+    .sale-image{
+        background: url(https://thumbs.dreamstime.com/b/new-year-s-sale-clothing-store-discounts-new-year-s-sale-clothing-store-discounts-103607006.jpg), orchid;
+        background-blend-mode: luminosity;
+}
+.statistics{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    text-align: center;
+}
+.heading{
+    text-align: center;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+.para{
+    text-align: center;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
