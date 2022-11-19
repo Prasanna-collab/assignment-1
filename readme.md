@@ -1,4 +1,4 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor - 2 side card
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.fro
 qr-code-component-iux_sIO_H). 
@@ -152,4 +152,4 @@ text-align:left;
 ## Author
 
 - Website - [Prasanna](https://www.linkedin.com/in/prasanna-rajendran)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Prasanna-collab)
+- Frontend Mentor - [@Prasana-collab](https://www.frontendmentor.io/profile/Prasanna-collab)
